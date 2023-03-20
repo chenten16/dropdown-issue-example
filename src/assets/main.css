@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  background-color: black;
+}
+.primary-btn {
+    background-color: #11a37f;
+    padding: 5px 11px;
+    border-radius: 6px;
+  }
+  
